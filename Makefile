@@ -8,9 +8,9 @@ export TERRAFORM_VERSION := 1.3.7
 
 export TERRAFORM_PROVIDER_SOURCE := Telmate/proxmox
 export TERRAFORM_PROVIDER_REPO := https://github.com/Telmate/terraform-provider-proxmox
-export TERRAFORM_PROVIDER_VERSION := 2.9.12
+export TERRAFORM_PROVIDER_VERSION := 2.9.11
 export TERRAFORM_PROVIDER_DOWNLOAD_NAME := terraform-provider-proxmox
-export TERRAFORM_NATIVE_PROVIDER_BINARY := terraform-provider-proxmox_v2.9.12
+export TERRAFORM_NATIVE_PROVIDER_BINARY := terraform-provider-proxmox_v2.9.11
 export TERRAFORM_DOCS_PATH := docs/resources
 
 PLATFORMS ?= linux_amd64 linux_arm64
