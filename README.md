@@ -1,6 +1,6 @@
 # Proxmox Provider
 
-`proxmox-provider` is a [Crossplane](https://crossplane.io/) provider that
+`provider-proxmox` is a [Crossplane](https://crossplane.io/) provider that
 is built using [Upjet](https://github.com/upbound/upjet) code
 generation tools and exposes XRM-conformant managed resources for the
 Template API.
